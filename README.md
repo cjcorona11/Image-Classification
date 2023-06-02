@@ -1,1 +1,2 @@
 # cnn-classifier-project
+In this project, we build a basic convolutional neural net (CNN) to classify images of handwritten numbers and letters from the extended MNIST dataset (EMNIST). We want to determine the effects of different architectures and different hyperparameter settings on the classification accuracy. So we write some code to loop through various model architectures and a small grid search of hyperparameter settings.
